@@ -1,6 +1,6 @@
 # GraphQL.ElectronicsStore
 
-API of ElectronicsStore
+GraphQL API of ElectronicsStore in Core .NET 8
 
 ## Description
 
