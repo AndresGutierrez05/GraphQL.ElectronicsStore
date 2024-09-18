@@ -33,3 +33,8 @@ keep in mind that in the `appsettings.json` file it needs to change the `connect
 
 ![image](https://github.com/user-attachments/assets/1925714e-ffe6-46dc-90e1-36ea1355ae0b)
 
+DATABASE DIAGRAM
+
+![bd](https://github.com/user-attachments/assets/0dbffd2d-f437-4472-8bde-e7f1334a20dc)
+
+
